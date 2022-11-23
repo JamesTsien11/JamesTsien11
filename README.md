@@ -1,6 +1,6 @@
 ## Life is to short, to shoot for the easy ways!❤️
-- 🍻  Study at SparK University
-- ⚡  Python
+- 🍻  Study at SparK 
+- ⚡  Python 
 - ✍️  Blogger
 - ♟  Email 
 ## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true&theme=tokyonight)

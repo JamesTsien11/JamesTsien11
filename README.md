@@ -1,22 +1,12 @@
-## 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Welcome to The Earth">
-<p align="center"> 
-  Visitor count<br/>
-  <img src="https://profile-counter.glitch.me/JamesQian11/count.svg" />
-</p>
-
-<br/>
-
-
+## Life is to short, to shoot for the easy ways!❤️
 - 🍻  Study at SparK University
 - ⚡  Python
 - ✍️  Blogger
 - ♟  Email 
-
-## Life is to short, to shoot for the easy ways!❤️
 ## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true&theme=tokyonight)
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&theme=dark&layout=compact)
-## ![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JamesQian11)
+## ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
+
 
 
 

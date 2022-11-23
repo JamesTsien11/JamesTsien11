@@ -1,7 +1,7 @@
-## Life is to short, to shoot for the easy ways!
+## Life is to short, to shoot for the easy ways!❤️
 ## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true&theme=tokyonight)
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&theme=dark&layout=compact)
-## ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JamesQian11&theme=dark&layout=compact)
+## ![JamesQian11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JamesQian11)
 
 
 <!--

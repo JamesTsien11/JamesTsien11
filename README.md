@@ -1,5 +1,6 @@
 ## Life is to short, to shoot for the easy ways!
 ## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true&theme=tokyonight)
+## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&theme=dark&layout=compact)
 
 <!--
 **JamesQian11/JamesQian11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

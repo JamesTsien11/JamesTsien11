@@ -3,8 +3,8 @@
 - ⚡  Python 
 - ✍️  Blogger
 - ♟  Email 
-## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true&theme=tokyonight)
-## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&theme=dark&layout=compact)
+## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true)
+## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)
 ## ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
 
 

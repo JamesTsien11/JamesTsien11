@@ -4,9 +4,12 @@
 - ✍️   Python, C++
 - 🫐  Like Digit, Calculate
 - ♟   Email 544749116@qq.com
-## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true)
+
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)
-## ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
+
+## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true)
+## Visitor Count
+### ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
 
 
 <!--START_SECTION:waka-->

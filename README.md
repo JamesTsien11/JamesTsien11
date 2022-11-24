@@ -7,24 +7,8 @@
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)
 ## ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
 
-name: WakaTime Readme
-
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **JamesQian11/JamesQian11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

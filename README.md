@@ -9,21 +9,6 @@
 
 
 <!--START_SECTION:waka-->
-```text
-最近一周: 2022/10/16 - 2022/10/23
-
-💬 编程语言: 
-No Activity tracked this Week
-
-🔥 常用编辑器: 
-No Activity tracked this Week
-
-💻 操作系统: 
-No Activity tracked this Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 

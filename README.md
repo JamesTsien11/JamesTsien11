@@ -2,7 +2,7 @@
 - 🌏  Study at Sola System
 - 🧙  Data Alanlysis, Machine Learning, Algorithms, Models
 - ✍️   Python, C++
-- 🫐  Like Digit, Calculate
+- 🫐  Like Numeric, Calculate
 - ♟   Email 544749116@qq.com
 
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)

@@ -2,7 +2,7 @@
 - 🌏  Study at Sola System
 - 🧙  Artificial Intelligence, Machine Learning, Computer Architecture
 - ✍️   Python, C++, Verilog
-- 🫐  Like Numeric, Calculate, Computing
+- 🫐  Like Numeric, Optimization, Computing
 - ♟   Email 544749116@qq.com
 
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)

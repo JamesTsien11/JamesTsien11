@@ -1,8 +1,8 @@
 ## Life is too short, to shoot for the easy ways!❤️
 - 🌏  Study at Sola System
-- 🧙  Data Alanlysis, Machine Learning, Algorithms, Models
-- ✍️   Python, C++
-- 🫐  Like Numeric, Calculate
+- 🧙  Artificial Intelligence, Machine Learning, Computer Architecture
+- ✍️   Python, C++, Verilog
+- 🫐  Like Numeric, Calculate, Computing
 - ♟   Email 544749116@qq.com
 
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)

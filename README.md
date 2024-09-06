@@ -1,4 +1,4 @@
-## Life is too short, to shoot for the easy ways!❤️
+## Life is too short, to shoot for the easy ways!
 - 🌏  Study at Sola System
 - 🧙  Artificial Intelligence, Machine Learning, Computer Architecture
 - ✍️   Python, C++, Verilog

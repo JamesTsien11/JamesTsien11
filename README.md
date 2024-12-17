@@ -1,6 +1,5 @@
 ## Embrace Innovation!
-- 🌏  Study at Sola System
-- 🧙  Artificial Intelligence, Machine Learning, Computer Architecture
+- 🧙  Artificial Intelligence, Machine Learning, Efficient Computing
 - ✍️   Python, C++, Verilog
 - 🫐  Like Numeric, Optimization, Computing
 

@@ -1,7 +1,7 @@
 ## Embrace Innovation!
-- 🧙  Artificial Intelligence, Machine Learning, Efficient Computing
+- 🧙   Artificial Intelligence, Machine Learning, Efficient Computing
 - ✍️   Python, C++, Verilog
-- 🫐  Like Numeric, Optimization, Computing
+- 🫐   Numeric, Optimization, Computing
 
 
 ## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)

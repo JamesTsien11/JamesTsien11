@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesTsien11&layout=compact" weight="280" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesTsien11&layout=compact" width="280" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=JamesTsien11&show_icons=true" height="165">
 </p>
 

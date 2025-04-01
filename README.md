@@ -1,7 +1,7 @@
 ## Embrace Innovation!
-- 🧙   Machine Learning, Efficient Computation, Computer Architecture
-- ✍️   Python, C++, Cuda, Verilog
-- 🫐   Algorithms, Computing,
+- 🧙   Machine Learning, Efficient Computation, Computer Architecture;
+- ✍️   Python, C++, Cuda, Verilog;
+- 🫐   Algorithms, Computing;
 
 
 

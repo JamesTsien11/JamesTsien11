@@ -4,8 +4,6 @@
 - 🫐   Algorithms, Computing,
 
 
-## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact)
-## ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true)
 
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact) | ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true) |
 |:-:|:-:|

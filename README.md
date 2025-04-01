@@ -5,13 +5,13 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesTsien11&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesTsien11&show_icons=true" height="165">
 </p>
 
 
 ## Visitor Count
-### ![Visitor Count](https://profile-counter.glitch.me/JamesQian11/count.svg)
+### ![Visitor Count](https://profile-counter.glitch.me/JamesTsien11/count.svg)
 
 
 <!--START_SECTION:waka-->

@@ -9,10 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JamesTsien11&show_icons=true" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesQian11&layout=compact" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesQian11&show_icons=true" width="50%">
-</p>
 
 
 
